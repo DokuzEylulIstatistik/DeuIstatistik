@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-785cbb98e919bb0a84c50f6eb13167e99a4a3014.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\graphview-3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="12c054c623caacf9db0e4b9719b3ebb0e85959aa">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\graphview-3.1-86f7b9d594b28ef8cf6dd99000c0c26059469cae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-d881b8f61fff1e3a3ae443ea12f85f6b9e31a453.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-958deb70297c64f09b1899a142dbe3b78a470ecc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-2b1ef77124f6bf47ffa2668e8e76e0f97d28ab06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\FlurryAnalytics-5.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0b458e548cb3a6196b60181134f975116b2ac040">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\FlurryAnalytics-5.5.0-de24e96c6e3c332192948090c067018730f1a215.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-39b54c4e89dee44c51b2c0e2390d91d1da371bad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-7b7ff2620bb025b58614b373428e1d055b46f8e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-c0bd18d59c09a5e19efa24e7c481e0400a4ea300.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-3afe903755409bf912f490aef4839a15905b1eba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f9820602f7ec4b0eb332fb47497854ebfdf912fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\FlurryAds-5.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1eba65482a07287a68c7b6270d854a481adfc85a">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\FlurryAds-5.5.0-99f55937cae13b6c77542e9775e1b5f8c23af859.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-8e5c0f3aa563c2af4f38968e613f76f4ab2fae98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-28e30f21ab48d4498f06e593fa2a2b7d03336f82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-3a0db4630fa2bc9c70e88c4fc0321093b72bf102.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-c07d846aebc52853693aa9d6d196e43200e27d6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-1e06f3d254ccfa8fc1259cb4dcad45527ced52c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\library-2.4.0-db3e19e3143d5d652829c6a882340430b76e16db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\gcm-9aa622f1363bbddb1f4e48c63b39e6e72e2184c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-518868a2c40dda4517ebbabb13a913f76ebd17c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-e8c5a532da3bb90af40c3ee7f67a6f0141efa2f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-ba6d92dc02477d44e85418a6b3a31d1cf97b304f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-3f5986a349dfbdadb49212e894962444af308099.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8aa807a27d3fde0de287ccb5cef2f302e180563f">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-5f89e5278dd83f1347e9d42703e96f72797dbd88.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-d7d7eb483f6b2a5b6a7c04a7087827ff488aa76a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-34ce9856fceed8626a9ed57f9daf55fafa036009.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-d8c23c73d439dab5b5deddb8cf45c4988ed932fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-a89bca820b1459d9f4061610298cd04333e374b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-38d05d25291e9d309fd924a0f02172a95e0802f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-40ba5017d7a7ad0c4b22828a6b5cece5d72f0d42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-5a42376cc7fc008b46267d8d977feaf42f251d3a.jar" />
+    </item>
+
+</items>

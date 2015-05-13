@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/Regresyon"
+        android:icon="@drawable/ic_action_refresh"
+        android:showAsAction="withText"
+        android:title="@string/menu_regresyon"/>
+    <item
+        android:id="@+id/Outlier"
+        android:icon="@drawable/ic_action_refresh"
+        android:showAsAction="withText"
+        android:title="@string/menu_outlier"/>
+    <!-- <item -->
+    <!-- android:id="@+id/Regresyons" -->
+    <!-- android:icon="@drawable/ic_action_refresh" -->
+    <!-- android:showAsAction="ifRoom|withText" -->
+    <!-- android:title="Regresyon"/> -->
+    <!-- <item -->
+    <!-- android:id="@+id/Regresyond" -->
+    <!-- android:icon="@drawable/ic_action_refresh" -->
+    <!-- android:showAsAction="ifRoom|withText" -->
+    <!-- android:title="Regresyon"/> -->
+    <!-- <item -->
+    <!-- android:id="@+id/Regresyonf" -->
+    <!-- android:icon="@drawable/ic_action_refresh" -->
+    <!-- android:showAsAction="ifRoom|withText" -->
+    <!-- android:title="Regresyon"/> -->
+
+</menu>

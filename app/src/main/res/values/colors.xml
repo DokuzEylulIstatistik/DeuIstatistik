@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#27428B</color>
+    <color name="kahve">#867138</color>
+    <color name="white">#FFF</color>
+    <color name="sol_menu_baslik_rengi">#7E8EBF</color>
+    <color name="sol_menu_cizgi_rengi">#7E8EBF</color>
+    <color name="black_overlay">#66000000</color>
+	<color name="z_icalan">#448c40</color>
+	<color name="z_disalan">#6d6d91</color>
+    
+</resources>
