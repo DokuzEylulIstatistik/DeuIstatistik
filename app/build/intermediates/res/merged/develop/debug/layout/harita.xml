@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="right" >
+
+    <fragment
+        android:id="@+id/haritafragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+    <!-- <Button -->
+    <!-- android:id="@+id/button1" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_alignParentRight="true" -->
+    <!-- android:layout_alignParentTop="true" -->
+    <!-- android:layout_marginRight="14dp" -->
+    <!-- android:layout_marginTop="16dp" -->
+    <!-- android:onClick="btn_Nerdeyim_Click" -->
+    <!-- android:text="Nerdeyim" /> -->
+
+    <Spinner
+        android:id="@+id/harita_spinnerYerListesi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="60dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/edittext"
+        android:textAlignment="textStart" />
+
+</RelativeLayout>

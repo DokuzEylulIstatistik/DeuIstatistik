@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:padding="5dp" >
+
+        <ImageView
+            android:id="@+id/fragmanetEntryImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/ic_action_copy" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/fragmentEntryUst"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layoutAnimation="@anim/myscaleanimation"
+            android:text="."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/fragmentEntryAlt"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:gravity="right"
+            android:text="."
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/koyugri" />
+    </LinearLayout>
+
+</LinearLayout>

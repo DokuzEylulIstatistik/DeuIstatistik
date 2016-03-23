@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/main.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/fragment_istatistikpaylasim_menu.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/fragment_istatistikpaylasim_menu.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/global.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/desc_stat_menu.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/desc_stat_menu.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/menutablo.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/menutablo.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/menuharita.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/menuharita.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/activity_dagilim1.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/activity_dagilim1.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/activity_dagilim2.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/activity_dagilim2.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/activity_dagilim.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/activity_dagilim.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/iletisim.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/iletisim.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/menudescriptivestats.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/menudescriptivestats.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/menu/menuortalama.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/menu/menuortalama.xml"
+    }
+]

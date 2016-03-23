@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.deu.istatistik"
-    android:versionCode="20"
-    android:versionName="V.5.0.3" >
+    package="com.deu.istatistik">
 
-    <uses-sdk
-        android:minSdkVersion="9"
-        android:targetSdkVersion="21" />
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -44,8 +39,7 @@
 
     <application
         android:allowBackup="true"
-
-        android:label="@string/app_name" >
+        android:label="@string/app_name">
 
         <!-- android:theme="@style/Theme.AppCompat.Light" > -->
         <activity
@@ -53,7 +47,7 @@
             android:configChanges="orientation"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
-            android:theme="@style/Theme.AppCompat.Light" >
+            android:theme="@style/Theme.AppCompat.Light">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -64,7 +58,7 @@
             android:name="com.deu.istatistik.HaritaActivity"
             android:label="Harita"
             android:parentActivityName="com.deu.istatistik.MainActivity"
-            android:theme="@style/Theme.AppCompat.Light" >
+            android:theme="@style/Theme.AppCompat.Light">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.deu.istatistik.MainActivity" />
@@ -77,14 +71,14 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <receiver android:name="com.deu.deuistatistik.receiver.receiverInternet" >
+        <receiver android:name="com.deu.deuistatistik.receiver.receiverInternet">
             <intent-filter>
                 <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
             </intent-filter>
         </receiver>
         <receiver
             android:name="com.google.android.gcm.GCMBroadcastReceiver"
-            android:permission="com.google.android.c2dm.permission.SEND" >
+            android:permission="com.google.android.c2dm.permission.SEND">
             <intent-filter>
 
                 <!-- Receives the actual messages. -->

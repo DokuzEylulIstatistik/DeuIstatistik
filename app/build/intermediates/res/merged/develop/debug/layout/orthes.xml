@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false" >
+
+    <TabHost
+        android:id="@+id/tabhost"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+                android:textAlignment="center" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp" >
+
+                <LinearLayout
+                    android:id="@+id/istatistik"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:padding="10dp"
+                        android:weightSum="2" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Sınıfınız : " />
+
+                        <Spinner
+                            android:id="@+id/sinifsecim"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:entries="@array/siniflar" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="@color/blue" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/btn_hesapla"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Hesapla" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Dersler" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Kredi" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Notunuz" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="5dp"
+                        android:background="@color/blue" />
+
+                    <!-- <LinearLayout -->
+                    <!-- android:layout_width="match_parent" -->
+                    <!-- android:layout_height="wrap_content" > -->
+
+
+                    <!-- <ListView -->
+                    <!-- android:id="@+id/listViewistatistik" -->
+                    <!-- android:layout_width="match_parent" -->
+                    <!-- android:layout_height="wrap_content" > -->
+                    <!-- </ListView> -->
+                    <!-- </LinearLayout> -->
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <!-- android:layout_weight="3" -->
+
+                        <LinearLayout
+                            android:id="@+id/listViewistatistik"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical" >
+                        </LinearLayout>
+                    </ScrollView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/diger"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:focusableInTouchMode="true" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/btn_hesapla_diger"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Hesapla" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Dersler" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Kredi" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Notunuz" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="5dp"
+                        android:background="@color/abc_search_url_text_normal" />
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <LinearLayout
+                            android:id="@+id/listViewdiger"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical" >
+                        </LinearLayout>
+                    </ScrollView>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>

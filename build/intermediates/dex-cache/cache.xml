@@ -2,221 +2,270 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-785cbb98e919bb0a84c50f6eb13167e99a4a3014.jar" />
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-safetynet-8.4.0_6ee49871377466af751ee2146ac518f71d86ba95.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\graphview-3.1.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="12c054c623caacf9db0e4b9719b3ebb0e85959aa">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\graphview-3.1-86f7b9d594b28ef8cf6dd99000c0c26059469cae.jar" />
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-plus-8.4.0_6dc4a9ec93c5f8a80759c961971fee03b39c85de.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-d881b8f61fff1e3a3ae443ea12f85f6b9e31a453.jar" />
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-gcm-8.4.0_46b3a571e603eac3d8fcaa2829094db0e9b7f500.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-958deb70297c64f09b1899a142dbe3b78a470ecc.jar" />
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-base-8.4.0_32f99247e39f18415ab05df95242ff5db4262b39.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="055783146ba9654a725442563be78cad303aad1f">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-2b1ef77124f6bf47ffa2668e8e76e0f97d28ab06.jar" />
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.android.support-mediarouter-v7-23.0.0_03d583b8f062fc6b4306be64b20cb7033a7120bb.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\FlurryAnalytics-5.5.0.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="0b458e548cb3a6196b60181134f975116b2ac040">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\FlurryAnalytics-5.5.0-de24e96c6e3c332192948090c067018730f1a215.jar" />
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-cast-8.4.0_a599434281de3baf3416ab2a23db42e31b77ef00.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-39b54c4e89dee44c51b2c0e2390d91d1da371bad.jar" />
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-fitness-8.4.0_49eac16533a1a9b7dab87aeeeb2305eae48326cc.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-7b7ff2620bb025b58614b373428e1d055b46f8e1.jar" />
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.android.support-appcompat-v7-23.2.0_5d851739ec7bd6ae56a16c84d581b0eb774ac257.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-c0bd18d59c09a5e19efa24e7c481e0400a4ea300.jar" />
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.android.support-support-v4-23.2.0_ef47246cb50e52f2c1610c87ecc34bbb9f4d759d.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-3afe903755409bf912f490aef4839a15905b1eba.jar" />
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.android.support-support-vector-drawable-23.2.0_fd827f5036eae564b7524dcb247a8fb6e56417f8.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f9820602f7ec4b0eb332fb47497854ebfdf912fc.jar" />
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.android.support-cardview-v7-23.2.0_6476a91db128d0da2181540b13d1d4fdd47d04b6.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\FlurryAds-5.5.0.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="1eba65482a07287a68c7b6270d854a481adfc85a">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\FlurryAds-5.5.0-99f55937cae13b6c77542e9775e1b5f8c23af859.jar" />
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/internal_impl-23.2.0_2b262e514dede3962bed19d6204b69807cc5bd18.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-8e5c0f3aa563c2af4f38968e613f76f4ab2fae98.jar" />
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-drive-8.4.0_e33075cf6e1dffd5254af3b33983afe06d90e2ce.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-28e30f21ab48d4498f06e593fa2a2b7d03336f82.jar" />
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-vision-8.4.0_ee6e84e3c950f689f58fe28365caae341635304d.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-3a0db4630fa2bc9c70e88c4fc0321093b72bf102.jar" />
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/support-annotations-23.2.0_8d842517558c4ebd45c678d5521bad63726e6135.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-c07d846aebc52853693aa9d6d196e43200e27d6c.jar" />
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-wallet-8.4.0_2becfae7fbc932722c8dd4dd9f375a92f22c9c22.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-1e06f3d254ccfa8fc1259cb4dcad45527ced52c3.jar" />
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-appindexing-8.4.0_8366b54fcdf1c0d39a7f5916feb6df9549b35aec.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-basement-8.4.0_687b64f2c7b079d1a4b79d96d333cbce3b389d7a.jar" />
+    </item>
+    <item
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-appinvite-8.4.0_cd9d5dc07c3e2ad911d6691059682ae196857c6a.jar" />
+    </item>
+    <item
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.android.support-design-23.2.0_89bc79fb4ec294ec5ad3c926dbd6f092f71d0326.jar" />
+    </item>
+    <item
+        jar="/Users/aykutasil/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\library-2.4.0-db3e19e3143d5d652829c6a882340430b76e16db.jar" />
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/library-2.4.0_c31591683b409ccfc08c13016984d841b083a974.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\gcm.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\gcm-9aa622f1363bbddb1f4e48c63b39e6e72e2184c7.jar" />
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-analytics-8.4.0_723aa4b0502b0b4053a3fb989dd78fbd690f9071.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-518868a2c40dda4517ebbabb13a913f76ebd17c3.jar" />
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-maps-8.4.0_4fc87b3e3c51d162b8b97ca9528c59797df8dc0c.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-e8c5a532da3bb90af40c3ee7f67a6f0141efa2f9.jar" />
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.android.support-recyclerview-v7-23.2.0_b0f9a176932c527f8a9854ca4b6b3c2f4b168162.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-ba6d92dc02477d44e85418a6b3a31d1cf97b304f.jar" />
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-panorama-8.4.0_360886254506d5a2d2090f748d378f738e24b868.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-3f5986a349dfbdadb49212e894962444af308099.jar" />
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-identity-8.4.0_549874492f3c90096eafecb20762fbdf355d843c.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.2\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-ads-8.4.0_afde3340ce279fc06b431078cccc84022debd2bc.jar" />
+    </item>
+    <item
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-nearby-8.4.0_e0b435400ac175e2a56c2f5f595578b0ac56ab78.jar" />
+    </item>
+    <item
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/internal_impl-23.0.0_c58b20cfa5a084a1433e617f48e29d90fce3b1b0.jar" />
+    </item>
+    <item
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-measurement-8.4.0_0d67f3567d8ec348b0defec3af5c0025d5835c79.jar" />
+    </item>
+    <item
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
         sha1="8aa807a27d3fde0de287ccb5cef2f302e180563f">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-5f89e5278dd83f1347e9d42703e96f72797dbd88.jar" />
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.daimajia.slider-library-1.1.2_634c16e2948a65b55b6624d0117e46a0f4945245.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-d7d7eb483f6b2a5b6a7c04a7087827ff488aa76a.jar" />
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-location-8.4.0_3b0c588e5fa663d1f25d8ed3a03fead147b3406a.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/libs/graphview-3.1.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-34ce9856fceed8626a9ed57f9daf55fafa036009.jar" />
+        revision="23.0.2"
+        sha1="12c054c623caacf9db0e4b9719b3ebb0e85959aa">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/graphview-3.1_c17dd7743f0f93532a6551debaa60c8e3ebd5c6a.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-d8c23c73d439dab5b5deddb8cf45c4988ed932fe.jar" />
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-games-8.4.0_4f9d6f85ee2cc0886e37349b1b952b20098cd93e.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\libs\universal-image-loader-1.9.3.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-a89bca820b1459d9f4061610298cd04333e374b1.jar" />
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.android.support-animated-vector-drawable-23.2.0_72624d3fcbfb9ec2456c068c4652a8e60d46f5d3.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jar="/Users/aykutasil/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-38d05d25291e9d309fd924a0f02172a95e0802f3.jar" />
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/picasso-2.5.2_e6ca72ef9937153a6a4aab65f5f9405612f7fcb1.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-40ba5017d7a7ad0c4b22828a6b5cece5d72f0d42.jar" />
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-auth-8.4.0_761cd3030008ccb7200858b0c392b2f6e68506cf.jar" />
     </item>
     <item
-        jar="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jar="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
-        <dex dex="C:\Users\Aykut\AndroidStudioProjects\DeuIst_11\app\build\intermediates\pre-dexed\debug\classes-5a42376cc7fc008b46267d8d977feaf42f251d3a.jar" />
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/pre-dexed/develop/debug/com.google.android.gms-play-services-wearable-8.4.0_604b62820e2a6909f33725c9a5982dc94f5ffec9.jar" />
     </item>
 
 </items>

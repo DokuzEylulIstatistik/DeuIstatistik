@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/dnm1.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/anim/dnm1.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/tabloanim.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/anim/tabloanim.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/design_fab_out.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/fade_in.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/myrotateanimation.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/anim/myrotateanimation.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_fade_in.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/design_fab_in.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_fade_out.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/deulogoanim.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/anim/deulogoanim.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/mytranslateanimation.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/anim/mytranslateanimation.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/myscaleanimation.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/src/main/res/anim/myscaleanimation.xml"
+    },
+    {
+        "merged": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/res/merged/develop/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/aykutasil/Personal Project/DeuIst_11/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_popup_exit.xml"
+    }
+]
